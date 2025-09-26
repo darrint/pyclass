@@ -1,0 +1,7 @@
+game.py
+pyproject.toml
+pygame1.egg-info/PKG-INFO
+pygame1.egg-info/SOURCES.txt
+pygame1.egg-info/dependency_links.txt
+pygame1.egg-info/requires.txt
+pygame1.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: pygame1
+Version: 0.1.0
+Summary: A simple 2D physics simulation using Pymunk and Pygame
+Requires-Python: >=3.8
+Requires-Dist: pygame-ce
+Requires-Dist: pymunk>=7.1.0
+Provides-Extra: dev
+Requires-Dist: black>=24.4.2; extra == "dev"
+Requires-Dist: pytest>=8.3.2; extra == "dev"

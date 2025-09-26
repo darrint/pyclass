@@ -1,0 +1,6 @@
+pygame-ce
+pymunk>=7.1.0
+
+[dev]
+black>=24.4.2
+pytest>=8.3.2
