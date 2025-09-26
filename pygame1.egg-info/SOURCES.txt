@@ -1,3 +1,5 @@
+LICENSE
+README.md
 game.py
 pyproject.toml
 pygame1.egg-info/PKG-INFO
